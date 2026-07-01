@@ -1,6 +1,11 @@
-# 32-bit-MIPS-inspired-single-cycle-CPU
+
 
 ALL codes are in master branch
+
+
+
+# 32-bit-MIPS-inspired-single-cycle-CPU
+
 INstruction for full system test
 # Full-System Test Programs for the MIPS Single-Cycle CPU
 
